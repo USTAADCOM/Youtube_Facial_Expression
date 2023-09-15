@@ -1,0 +1,10 @@
+flask
+flask-cors
+ultralytics
+Pillow
+functools
+typing
+cap_from_youtube
+keras
+opencv-python
+numpy
